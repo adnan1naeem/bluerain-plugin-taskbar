@@ -1,0 +1,5 @@
+export default {
+	'plugin.taskbar.mevris': 'میورس',
+	'plugin.taskbar.apps': 'ایپس',
+	'plugin.taskbar.deviceexplorer': 'ڈیوائس ایکسپلورر'
+};
